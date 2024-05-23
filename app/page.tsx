@@ -34,11 +34,11 @@ export default function Page() {
           <Image  
             src="/hero-desktop.png" 
             alt="hero desktop image" 
-            width={1400} height={10060}
+            width={1000} height={760}
             className='hidden md:block'
             />
             <Image  
-            src="/hero-mobile.png" 
+            src="/hero-desktop.png" 
             alt="hero desktop image" 
             width={560} height={620}
             className='block md:hidden'
